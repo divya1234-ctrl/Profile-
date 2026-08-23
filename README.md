@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/divya1234)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/divya-jangir-a599173b6)
   
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** with a passion for building scalable, efficient, and user-centric applications. I specialize in end-to-end development, from algorithm design to production deployment, creating solutions that matter.
+I'm a **Full-Stack Software Engineer** with a passion for building scalable, efficient, and user-centric applications. I specialize in end-to-end development, from algorithm design to production deplo[...] 
 
 ### 🎯 What I Do:
 - 🔧 Build **robust full-stack applications** with clean, maintainable code
@@ -94,7 +94,7 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable, eff
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya1234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-jangir-a599173b6)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divya.garde@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divya1234-ctrl)
 
