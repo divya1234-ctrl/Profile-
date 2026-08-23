@@ -1,4 +1,3 @@
-
 # Hi there, I'm Divya 👋
 
 <div align="center">
@@ -11,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** with a passion for building scalable, efficient, and user-centric applications. I specialize in end-to-end development, from algorithm design to production deployment. With expertise across multiple programming languages and frameworks, I thrive on solving complex problems and creating meaningful digital solutions.
+I'm a **Full-Stack Software Engineer** with a passion for building scalable, efficient, and user-centric applications. I specialize in end-to-end development, from algorithm design to production deployment, creating solutions that matter.
 
 ### 🎯 What I Do:
 - 🔧 Build **robust full-stack applications** with clean, maintainable code
