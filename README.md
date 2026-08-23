@@ -4,7 +4,6 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/divya1234-ctrl?label=Followers&style=social)](https://github.com/divya1234-ctrl)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/divya1234ctrl?style=social)](https://twitter.com/divya1234ctrl)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/divya1234)
   
 </div>
@@ -98,9 +97,7 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable, eff
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya1234)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/divya1234ctrl)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divya.garde@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://divya1234-ctrl.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divya1234-ctrl)
 
 </div>
