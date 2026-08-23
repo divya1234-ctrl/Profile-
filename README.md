@@ -55,30 +55,16 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable, eff
 
 ## 📚 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| [**Code-Sprout**](https://github.com/divya1234-ctrl/Code-Sprout) | A fun and engaging way to learn programming concepts | TypeScript | ![Stars](https://img.shields.io/github/stars/divya1234-ctrl/Code-Sprout?style=flat) |
-| [**DoseGuard**](https://github.com/divya1234-ctrl/DoseGuard) | Medicine tracker application for health management | TypeScript | ![Stars](https://img.shields.io/github/stars/divya1234-ctrl/DoseGuard?style=flat) |
-| [**Note-tube**](https://github.com/divya1234-ctrl/Note-tube) | Integrated note-taking with YouTube video synchronization | TypeScript | ![Stars](https://img.shields.io/github/stars/divya1234-ctrl/Note-tube?style=flat) |
-| [**PandaMart**](https://github.com/divya1234-ctrl/panda) | E-commerce platform with modern UI/UX | TypeScript | ![Stars](https://img.shields.io/github/stars/divya1234-ctrl/panda?style=flat) |
-| [**Password Manager**](https://github.com/divya1234-ctrl/Password_manager) | Secure password management tool | Python | ![Stars](https://img.shields.io/github/stars/divya1234-ctrl/Password_manager?style=flat) |
-| [**Recipe Finder**](https://github.com/divya1234-ctrl/Recipe-Finder) | Intelligent recipe discovery application | JavaScript | ![Stars](https://img.shields.io/github/stars/divya1234-ctrl/Recipe-Finder?style=flat) |
-| [**DSA Essentials**](https://github.com/divya1234-ctrl/dsa-essentials-course) | Data Structures & Algorithms learning resource | C++ | ![Stars](https://img.shields.io/github/stars/divya1234-ctrl/dsa-essentials-course?style=flat) |
-| [**Expense Sharing**](https://github.com/divya1234-ctrl/Expense-sharing) | Smart expense tracker and splitter | TypeScript | ![Stars](https://img.shields.io/github/stars/divya1234-ctrl/Expense-sharing?style=flat) |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divya1234-ctrl&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/divya1234-ctrl)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divya1234-ctrl&layout=compact&theme=radical&hide_border=true)](https://github.com/divya1234-ctrl)
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=divya1234-ctrl&theme=radical&hide_border=true)](https://github.com/divya1234-ctrl)
-
-</div>
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| [**Code-Sprout**](https://github.com/divya1234-ctrl/Code-Sprout) | A fun and engaging way to learn programming concepts | TypeScript |
+| [**DoseGuard**](https://github.com/divya1234-ctrl/DoseGuard) | Medicine tracker application for health management | TypeScript |
+| [**Note-tube**](https://github.com/divya1234-ctrl/Note-tube) | Integrated note-taking with YouTube video synchronization | TypeScript |
+| [**PandaMart**](https://github.com/divya1234-ctrl/panda) | E-commerce platform with modern UI/UX | TypeScript |
+| [**Password Manager**](https://github.com/divya1234-ctrl/Password_manager) | Secure password management tool | Python |
+| [**Recipe Finder**](https://github.com/divya1234-ctrl/Recipe-Finder) | Intelligent recipe discovery application | JavaScript |
+| [**DSA Essentials**](https://github.com/divya1234-ctrl/dsa-essentials-course) | Data Structures & Algorithms learning resource | C++ |
+| [**Expense Sharing**](https://github.com/divya1234-ctrl/Expense-sharing) | Smart expense tracker and splitter | TypeScript |
 
 ---
 
@@ -132,34 +118,11 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable, eff
 
 ---
 
-## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divya1234-ctrl&theme=radical&hide_border=true)
-
----
-
-## 📌 Quick Stats
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 🏆 Total Repositories | 20+ |
-| 👥 Followers | [![GitHub followers](https://img.shields.io/github/followers/divya1234-ctrl?style=flat)](https://github.com/divya1234-ctrl) |
-| 💻 Languages | C, Python, Java, JavaScript, TypeScript, HTML, CSS, SQL |
-| 🎯 Focus Areas | Full-Stack Development, DSA, Web Applications |
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ If you find my work interesting, don't forget to star my repositories!
 
 **Thank you for visiting my profile. Let's build something amazing together!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=divya1234-ctrl&color=blue)
 
 *Last Updated: August 2026 | Always Open to Opportunities & Collaborations* 🚀
 
