@@ -3,7 +3,6 @@
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/divya1234-ctrl?label=Followers&style=social)](https://github.com/divya1234-ctrl)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/divya1234)
   
 </div>
@@ -120,7 +119,5 @@ I'm a **Full-Stack Software Engineer** with a passion for building scalable, eff
 ### ⭐ If you find my work interesting, don't forget to star my repositories!
 
 **Thank you for visiting my profile. Let's build something amazing together!**
-
-*Last Updated: August 2026 | Always Open to Opportunities & Collaborations* 🚀
 
 </div>
